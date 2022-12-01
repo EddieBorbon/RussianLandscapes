@@ -1,0 +1,12 @@
+body {
+  overflow: hidden;
+  margin: 0;
+  background-color: black;
+}
+h1,
+h2{
+  color: white;
+  text-align: center;
+  font-family: 'Inspiration', 'cursive';
+  font-size: 100px;
+}
