@@ -61,6 +61,5 @@ Check out the project live: [Russian Memories Demo](https://eddieborbon.com/russ
 Feel free to reach out with any questions or suggestions:
 
 - **Developer**: Eddie Jonathan Garcia Borbon
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
 
 Enjoy exploring Russia through art! 🌍✨
